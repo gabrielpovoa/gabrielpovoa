@@ -1,8 +1,7 @@
-## Olá! Eu sou o Gabriel
+## Hello, It's Gabriel
 
-- 🔭 Estou me especializando em desenvolvimento front-end
-- 🌱 Estudando JavaScript
-- 😄 Pronomes: ele/dele
+- 🔭 Studying every single day to be a great Full Stack dev
+- 🌱 Currently Learning and getting better in Javascript
 
  <div>
   <a href="https://github.com/Oleg-martsenie">
