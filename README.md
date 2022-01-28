@@ -1,7 +1,7 @@
 ## Hello, It's Gabriel
 
 - 🔭 Studying every single day to be a great Full Stack dev
-- 🌱 Currently Learning and getting better in Javascript
+- 🌱 Currently I'm Learning and getting better in Javascript
 
  <div>
   <a href="https://github.com/Oleg-martsenie">
