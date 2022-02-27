@@ -14,7 +14,7 @@
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.png">
-   <img align="right" alt="Gabs-yoda" src="https://media0.giphy.com/media/8qk8OCOxYw4o0/giphy.gif">
+   <img align="right" alt="Gabs-yoda" src="https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png">
 </div>
   
 ##
