@@ -13,7 +13,7 @@
   <img align="center" alt="Gabs-TS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png">
+  <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fpedrovrima%2Fpor-que-voce-deveria-dar-uma-chance-ao-tailwind-css-hjj&psig=AOvVaw1Rw-y5OklM2sgGm-TGbYmf&ust=1646082364574000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCVgOnkoPYCFQAAAAAdAAAAABAD">
   <img align="right" alt="Gabs-yoda" src="https://media0.giphy.com/media/8qk8OCOxYw4o0/giphy.gif">
 </div>
   
