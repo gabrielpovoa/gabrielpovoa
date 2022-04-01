@@ -4,8 +4,8 @@
 - 🌱 Currently I'm Learning and getting better in Javascript
 
  <div>
-  <a href="https://github.com/Oleg-martsenie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oleg-martsenie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gabrielpovoa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpovoa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oleg-martsenie&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   <div style="display: inline_block"><br>
