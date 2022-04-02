@@ -1,7 +1,9 @@
 ## Hello, It's Gabriel
 
-- 🔭 Studying every single day to be a great Full Stack dev
-- 🌱 Currently I'm Learning and getting better in Javascript
+👨‍🎓 I'm currently studying front-end by myself and, as well, with Estacio
+🦆 I'm currently coding a lot with JS/HTML/CSS/REACT but I'm planning to learn more about Nodejs
+🤯 I like to always share my knowledge with others, and I always try to learn new things
+🥴 Fun-fact: I love to learn new languages
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
