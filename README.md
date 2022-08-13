@@ -12,7 +12,7 @@
   <img align="center" alt="Gabs-TS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
   <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg">
+  <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
    <br>
 </div>
 
