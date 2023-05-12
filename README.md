@@ -14,7 +14,7 @@
    <img align="center" alt="Gabs-C++" height="30" width="40" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg">
   <img align="center" alt="Gabs-C++" height="30" width="40" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg">
     <img align="center" alt="Gabs-PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg>
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://icons8.com/icon/gNSm07ZBxSPM/php">
   <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="Gabs-STYLEDCOMPONENTS" height="30" width="40" src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png">
   <img align="center" alt="Gabs-REACTJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
