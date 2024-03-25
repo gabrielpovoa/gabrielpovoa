@@ -17,6 +17,7 @@
   <img align="center" alt="Gabs-TAILWIND" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" alt="Gabs-STYLEDCOMPONENTS" height="30" width="40" src="https://cdn-media-1.freecodecamp.org/images/1*p1TndLk3UsGPBsM7qHPZIw.png">
   <img align="center" alt="Gabs-REACTJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img align="center" alt="Gabs-WordPress" height="30" width="40" src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png">
    <br>
 </div>
 
