@@ -1,10 +1,9 @@
 ## Hello, It's Gabriel
 
 <ul>
-  <li>👨‍🎓 I'm currently studying back-end development by myself</li> 
-  <li>🦆 I'm currently coding a lot with PHP and REACT</li> 
-  <li>🤯 I like to always share my knowledge with others, and I always try to learn new things</li> 
-  <li>🥴 Fun-fact: I love to learn new languages NOT JUST PROGRAMMING LANGUAGES Hhaha</li>
+  <li>👨‍🎓 Web Developer pomoting amazing solutiions using NextJs, Wordpress and PHP</li> 
+  <li>🦆 Currently improving my React Native skills</li> 
+  <li>🤯 Love to learn new languges - Russian is my favorite one</li> 
 </ul>
 
   <div style="display: inline_block"><br>
