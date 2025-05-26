@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/gabriel-limapovoa" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gabriel.limapovoa@gmail.com">
+  <a href="mailto:gabrielpovoa.f@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
